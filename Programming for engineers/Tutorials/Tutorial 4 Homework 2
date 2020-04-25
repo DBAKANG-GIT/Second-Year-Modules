@@ -1,0 +1,32 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+	float initalA_amount = 25000;
+	float initalB_amount = 25000;
+	float depreciation_A = 0.2; //Depreciation
+	float appreciation_B = 0.8; //Appreciation//
+	float sum_A;
+	float sum_B;
+	int year = 0;
+	double saverA = 25000;
+	double saverB = 25000;
+
+	cout << "year: " << year << " saverA: " << saverA << " saverB: " << saverB << endl;
+	cout << "multiple B/A: " << (int)saverB / (int)saverA << endl;
+
+	while (saverB <= 10 * saverA)
+	{
+		saverA = saverA * 0.8; // - 20 %
+		saverB = saverB * 1.08; // + 8 %
+
+		year++;
+
+		cout << "year: " << year << " saverA: " << saverA << " saverB: " << saverB << endl;
+		cout << "multiple B/A: " << (int)saverB / (int)saverA << endl;
+	}
+
+
+	return 0;
+}Tuto

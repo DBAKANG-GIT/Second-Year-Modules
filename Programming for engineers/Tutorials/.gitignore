@@ -1,0 +1,32 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ConsoleApplication1/.vs/ConsoleApplication1/v16
+/T1-ASCIIArt/.vs/T1-ASCIIArt/v16/ipch/AutoPCH/e6797bd029b4d450
+/T1-ASCIIArt/.vs/T1-ASCIIArt/v16
+/T1-ASCIIArt
+/T1- HelloWorld/.vs/T1- HelloWorld/v16/Browse.VC.opendb
+/T2-Variables/.vs/T2-Variables/v16/Browse.VC.opendb
+/T2-Variables/.vs/T2-Variables/v16/Browse.VC.db
+/T2-Selection/.vs/T2-Selection/v16/Browse.VC.db
+/Homework 1 - Grading Program/.vs/Homework 1 - Grading Program/v16/Browse.VC.opendb
+/Homework 2- Cola Machine/.vs/Homework 2- Cola Machine/v16/Browse.VC.opendb
+/Homework 2- Cola Machine/.vs/Homework 2- Cola Machine/v16/Browse.VC.db
+/Homework 2 (Cola Machine) (Switch-Statement)/.vs/Homework 2 (Cola Machine) (Switch-Statement)/v16/Browse.VC.opendb
+/T3- Grains of rice (Activity 3/.vs/T3- Grains of rice (Activity 3/v16/Browse.VC.opendb
+/Tutorial 3 - Activity 3 Complete/.vs/Tutorial 3 - Activity 3 Complete/v16/Browse.VC.opendb
+/Tutorial 4/.vs/Tutorial 4/v16/Browse.VC.opendb
+/Tutorial 3 Homework 1/.vs/Tutorial 3 Homework 1/v16/Browse.VC.opendb
+/T3- Homework 1/.vs/T3- Homework 1/v16/Browse.VC.opendb
+/ConsoleApplication2/.vs/ConsoleApplication2/v16/Browse.VC.db
+/T3-GrainsOfRice(Activity 1)/Tutorial 3 - Activity 3 Complete/Tutorial 3 Homework 1/.vs/Tutorial 3 Homework 1/v16/Browse.VC.db
+/T6-Functions/.vs/T6-Functions/v16/Browse.VC.opendb
+/Tutorial9/.vs/Tutorial9/v16/Browse.VC.opendb
+/T5- Roman Numerals/.vs/T5- Roman Numerals/v16/Browse.VC.opendb
+/T10 - Activity 1/.vs/T10 - Activity 1/v16/Browse.VC.opendb
+/T2-Selection/T2-Activity 2/.vs/T2-Activity 2/v16/Browse.VC.opendb
+/T2-Selection/T2- Activity 3/.vs/T2- Activity 3/v16/Browse.VC.opendb
+/T2-Selection/T2- Activity 4 (Scope)/.vs/T2- Activity 4 (Scope)/v16/Browse.VC.opendb
+/T2-Selection/T2-Activity 5/.vs/T2-Activity 5/v16/Browse.VC.opendb
